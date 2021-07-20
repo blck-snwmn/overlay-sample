@@ -1,0 +1,5 @@
+{
+    "Replace": {
+        "./good_bye.go": "./hello.go"
+    }
+}
