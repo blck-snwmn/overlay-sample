@@ -1,8 +1,5 @@
 version: "2"
 
-run:
-  enable-build-vcs: true
-
 formatters:
   enable:
     - gofmt
